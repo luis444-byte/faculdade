@@ -1,0 +1,37 @@
+[
+    {
+        "enunciado": "Qual é a capital do Brasil?",
+        "alternativas": ["São Paulo", "Rio de Janeiro", "Brasília", "Salvador"],
+        "resposta_correta": 2,
+        "dica": "É uma cidade planejada.",
+        "nivel": 1
+    },
+    {
+        "enunciado": "Quanto é 2 + 2?",
+        "alternativas": ["3", "4", "5", "6"],
+        "resposta_correta": 1,
+        "dica": "É uma operação básica de adição.",
+        "nivel": 2
+    },
+    {
+        "enunciado": "Qual é o maior planeta do Sistema Solar?",
+        "alternativas": ["Terra", "Marte", "Júpiter", "Saturno"],
+        "resposta_correta": 2,
+        "dica": "É um gigante gasoso.",
+        "nivel": 3
+    },
+    {
+        "enunciado": "Quem escreveu 'Dom Quixote'?",
+        "alternativas": ["Shakespeare", "Cervantes", "Dante", "Goethe"],
+        "resposta_correta": 1,
+        "dica": "É um autor espanhol.",
+        "nivel": 4
+    },
+    {
+        "enunciado": "Qual é a fórmula química da água?",
+        "alternativas": ["H2O", "CO2", "O2", "NaCl"],
+        "resposta_correta": 0,
+        "dica": "É composta por hidrogênio e oxigênio.",
+        "nivel": 5
+    }
+]
